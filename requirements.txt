@@ -1,0 +1,8 @@
+dash==2.11.1
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+dash_table==5.0.0
+MetaTrader5==5.0.45
+pandas==2.0.3
+gunicorn
+dash-tools
